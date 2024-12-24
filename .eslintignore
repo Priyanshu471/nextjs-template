@@ -1,0 +1,15 @@
+node_modules
+
+**/.next/**
+**/_next/**
+**/dist/**
+**/build/**
+**/coverage/**
+**/__tmp__/**
+
+# Ignore config files
+/i18n.ts
+/middleware.ts
+
+# Ignore multiselect
+/components/ui/core/multiselect
